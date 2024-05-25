@@ -52,6 +52,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - [Pygame](https://www.pygame.org/news) for the game development library
 - [OpenCV](https://opencv.org/) for the computer vision library
 
-```
 
-You can create these files in your project directory. The `README.md` provides an overview, installation instructions, gameplay instructions, and credits. The `requirements.txt` lists all the dependencies required to run the game.
