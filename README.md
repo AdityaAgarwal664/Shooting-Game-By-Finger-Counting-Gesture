@@ -19,7 +19,7 @@ Finger Shooting Missile is a gesture-based game where players use hand gestures 
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/finger-shooting-missile.git
+   git clone https://github.com/AdityaAgarwal664/Shooting-Game-By-Finger-Counting-Gesture.git
    cd finger-shooting-missile
    ```
 2. Install the required dependencies:
