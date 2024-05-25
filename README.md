@@ -45,7 +45,7 @@ Finger Shooting Missile is a gesture-based game where players use hand gestures 
 [Link to Demo Video](https://youtu.be/XYPtFBfw4lU)
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for more details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## Acknowledgments
 - [MediaPipe](https://github.com/google/mediapipe) for the hand tracking solution
