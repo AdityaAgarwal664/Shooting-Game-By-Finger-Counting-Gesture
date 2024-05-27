@@ -1,4 +1,4 @@
-# Finger Shooting Missile Game
+# Finger Shooting Missile Game[A<sup>2</sup>]
 
 ## Overview
 Finger Shooting Missile is a gesture-based game where players use hand gestures detected by their webcam to shoot down missiles. The game leverages OpenCV for webcam input, MediaPipe for hand gesture recognition, and Pygame for the game mechanics and graphics.
